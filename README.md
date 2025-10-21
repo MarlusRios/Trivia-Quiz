@@ -18,7 +18,7 @@ Como ultilizar:
 
 1. Clone o Repositório com o comando: git clone https://github.com/MarlusRios/Trivia-Quiz.git
 2. Entre no repositório com o comando: cd Trivia-Quiz
-3. instale as dependencias com o comando: npm install
+3. instale as dependencias com o comando: npm run dev
 4. execute a aplicação com o comando: npm start
 
 Considerações a serem feitas ao usuario:
